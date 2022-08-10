@@ -1,0 +1,22 @@
+
+.retrato {
+    margin: 30px 40px 50px 60px;
+}
+    /*no exemplo acima é a maneira de configurar as margens 
+    da imagem ou foto, colocando um valor para cada lado na sequência, top, right, bottom e left*/
+
+.retrato {
+    margin: 30px;
+}
+
+   /*porém se eu aplicar um valor somente, como no último exemplo, este irá
+   definir a mesma margem para todos os lados da imagem ou foto*/
+   
+   
+
+
+
+
+    
+    
+    

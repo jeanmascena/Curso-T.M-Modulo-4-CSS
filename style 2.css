@@ -1,0 +1,29 @@
+body {
+background: rgb(197, 160, 160);
+}
+    /*rgb-->red=quantidade de mistura de vermelho
+            green=quantidade de mistura de verde
+            blue=quantidade de mistura de azul*/
+
+p {
+    color: #444444;  
+}
+
+
+h3 {
+    color: rgb(68, 68, 68),
+}
+
+h4 {
+    color: #c0c0c0
+} 
+
+
+
+
+
+
+
+
+
+

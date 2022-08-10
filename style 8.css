@@ -1,0 +1,17 @@
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    font-style: italic;
+    color:rgb(13, 65, 99);
+    font-weight: 200;
+    letter-spacing: -1px;
+  }
+
+  /* algumas mudanças na parte visual das letras e textos 
+  como a font-style(tipos específicos), font-weight(espessura dos caracteres), 
+  letter-spacing(aumentar ou diminuir o espaço entre um caractere e outro). */

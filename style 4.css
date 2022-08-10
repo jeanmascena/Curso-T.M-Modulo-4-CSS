@@ -1,0 +1,11 @@
+/*criando borda na foto principal do meu curriculo*/
+
+/*A propriedade "border" possui inumeras configurações*/
+
+.retrato {
+    border: rgb(247, 207, 158) 10% 50% 100% 23%;
+    border-radius: 10%; 
+    border-left: 10%;
+    border-right: 10%;
+    border-bottom: 10%;
+}
