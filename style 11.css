@@ -1,0 +1,12 @@
+.jobs-list {
+    list-style: none;
+    padding: 20px;
+  }
+
+  .footer {
+    color: white;
+    margin-top: 40px;
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+  }
